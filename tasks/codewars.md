@@ -17,7 +17,7 @@ Codewars
      11. http://www.codewars.com/kata/prefill-an-array
      12. http://www.codewars.com/kata/cross-product-of-vectors
      13. http://www.codewars.com/kata/sequence-generator-1
-     14. - https://www.codewars.com/kata/base-conversion/
+     14. https://www.codewars.com/kata/base-conversion/
   - Part II 
      1. http://www.codewars.com/kata/closures-and-scopes
      2/ http://www.codewars.com/kata/a-function-within-a-function
